@@ -127,29 +127,7 @@ Async Payment Gateway
 
 ---
 
-##  Technology Stack
 
-### Backend
-
-* Node.js 18
-* Express.js
-* PostgreSQL
-* Bull Queue
-* Redis
-
-### Frontend
-
-* React 18
-* Vite
-* React Router
-
-### Infrastructure
-
-* Docker
-* Docker Compose
-* Nginx (frontend)
-
----
 
 ##  Getting Started
 
