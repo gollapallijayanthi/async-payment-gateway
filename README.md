@@ -1,4 +1,4 @@
-# Async Payment Gateway – Deliverable 2
+# Async Payment Gateway 
 
 A **production-ready payment gateway system** built using asynchronous processing, distributed job queues, secure webhook delivery, an embeddable checkout SDK, and complete refund lifecycle management.
 
@@ -387,15 +387,15 @@ async-payment-gateway/
 
 ##  Deliverable 2 Coverage
 
-✅ Async job queues
-✅ Redis-backed workers
-✅ Webhook retries with HMAC security
-✅ Refund processing pipeline
-✅ Idempotency handling
-✅ Checkout SDK
-✅ Merchant dashboard
-✅ Dockerized environment
-✅ Automated evaluation readiness
+* Async job queues
+* Redis-backed workers
+* Webhook retries with HMAC security
+* Refund processing pipeline
+* Idempotency handling
+* Checkout SDK
+* Merchant dashboard
+* Dockerized environment
+* Automated evaluation readiness
 
 ---
 
